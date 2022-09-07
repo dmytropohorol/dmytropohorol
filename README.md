@@ -1,0 +1,5 @@
+- Hi, I’m Dmytro from Ukraine
+- My main hobby is program on Unreal Engine, creating games (for PC)
+- Know basics of C++ but enough for Unreal Engine
+- Now learning Gameplay Ability System
+- Soon release of starting doing big project "Unreal Wars" (=
