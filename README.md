@@ -33,20 +33,4 @@ I specialize in **low-level optimization**, **pipeline architecture**, and makin
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
 </div>
-
 <br/>
-
-### 🚧 Current Obsessions
-* **LemberGraph:** A partly open-source, high-performance kinematics engine (Think MotionBuilder, but better).
-* **Optimization:** If it takes more than 16ms, it's a bug.
-* **Math:** Differential equations and Linear Algebra (because game engines run on math, not magic).
-
----
-
-### 📞 *I usually reply.*
-
-<p align="left">
-<a href="mailto:pohoriletsdmytro@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
