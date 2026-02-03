@@ -6,15 +6,9 @@
 
   ### 🎓 Student at Lviv Polytechnic National University
   ### 🛠️ Tools Developer at Frogwares
-  ### 🚀 Creator of LemberGraph
+  ### 🚀 Developer of the LemberGraph
 
   <br/>
-
-  <p align="center">
-    I write efficient code or write fast if asked. <br/>
-    Currently rewriting legacy systems and building <b>LemberGraph</b>—a high-performance kinematics engine <br/>
-    because existing MoCap software wasn't fast enough for me.
-  </p>
 
 </div>
 
