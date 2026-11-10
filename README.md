@@ -6,7 +6,6 @@
 
   ### Student at Lviv Polytechnic National University
   ### Tools Developer at Frogwares
-  ### Developer of the LemberGraph
 
   <br/>
 
